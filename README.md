@@ -1,7 +1,7 @@
 # TIL
 > Today I Learned
 
-그날 그날의 기록....
+그날 그날의 나의 기록....
 
 
 _2 TILs and counting..._

@@ -17,23 +17,22 @@
 - ex) [alert] 해당 state가 변경될 때 (updating 될 때) 실행
 - tip. [] 빈칸으로 두면 한 번만 실행되고 끝
 
-```
+```javascript
 const [alert, alertChange] = useState(true);
 
 useEffect(() => {
   // mounting 될 때 실행
   // []가 없다면 ... updating 될 때 실행
-  const timer = setTimeout(()=>{
-    alertChange(false)
+  const timer = setTimeout(() => {
+    alertChange(false);
 
-    console.log('!!!')
-  },2000)
-
+    console.log("!!!");
+  }, 2000);
 
   // return은 numouting 될 때 실행
   return () => {
     clearTimeout(timer);
-  }
+  };
   // alert가 updating될 때
-}, [alert])
+}, [alert]);
 ```

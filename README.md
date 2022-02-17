@@ -1,8 +1,7 @@
 # TIL
 > Today I Learned
 
-
-A collection of concrete writeups of small things I learn daily.
+매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
 _2 TILs and counting..._

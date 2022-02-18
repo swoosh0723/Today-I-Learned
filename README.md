@@ -33,7 +33,7 @@ _14 TILs and counting..._
 - [삼항 조건 연산자](javascript/삼항조건연산자.md)
 
 ### [react](#react)
-- [Route](react/Switch_Route_Link.md)
+- [Switch,Route,Link](react/Switch_Route_Link.md)
 - [map](react/map.md)
 - [props](react/props.md)
 - [useEffect](react/useEffect.md)

@@ -1,10 +1,8 @@
 # Array.prototype.pop()
 
----
-
 ## 설명
 
-**`array.pop()`**
+**`array.pop()`**  
 배열의 **_마지막_** 요소를 제거한다
 
 ---

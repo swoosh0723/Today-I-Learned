@@ -1,10 +1,8 @@
 # Array.prototype.unshfit()
 
----
-
 ## 설명
 
-**`array.unshfit()`**
+**`array.unshfit()`**  
 배열의 **_맨 앞_** 에 값을 추가한다
 
 ---

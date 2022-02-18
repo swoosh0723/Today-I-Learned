@@ -1,10 +1,8 @@
 # Array.prototype.shift()
 
----
-
 ## 설명
 
-**`array.shift()`**
+**`array.shift()`**  
 배열의 **_첫번째_** 요소를 제거한다
 
 ---

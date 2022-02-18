@@ -1,7 +1,5 @@
 # useEffect
 
----
-
 ## 설명
 
 리액트 component는 라이프 사이클이 존재한다.  

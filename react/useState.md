@@ -1,12 +1,10 @@
 # useState
 
----
-
 ## 설명
 
-변수 대신 사용하는 데이터 저장공간
-useState()를 이용해 만들어야함
-`const [data, dataChange] = useState(initialData)`
+변수 대신 사용하는 데이터 저장공간  
+useState()를 이용해 만들어야함  
+`const [data, dataChange] = useState(initialData)`  
 최초로 랜더링 될 때 `data`는 `initialData`와 동일
 
 ---

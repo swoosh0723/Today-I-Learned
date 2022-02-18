@@ -1,7 +1,5 @@
 # props
 
----
-
 ## 설명
 
 부모 component에 있는 어떠한 값을 자식 component에 전달할 때 사용

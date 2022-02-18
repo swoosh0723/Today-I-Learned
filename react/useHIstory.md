@@ -1,17 +1,15 @@
 # useHistory
 
+## 사용방법
+
+1. `yarn add react-router-dom` 설치한다
+2. `import { useHistory } from 'react-router-dom'` 문서에 import 시킨다
+
 ---
 
 ## 설명
 
 페이지 이동내역 + 유용한 함수
-
----
-
-### 사용방법
-
-1. `yarn add react-router-dom` 설치한다
-2. `import { useHistory } from 'react-router-dom'` 문서에 import 시킨다
 
 ---
 

@@ -1,10 +1,8 @@
 # Array.prototype.push()
 
----
-
 ## 설명
 
-**`array.push()`**
+**`array.push()`**  
 배열의 **_맨 끝_** 에 값을 추가한다  
 배열의 length를 return한다
 

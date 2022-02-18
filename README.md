@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_9 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -33,7 +33,12 @@ _9 TILs and counting..._
 - [삼항 조건 연산자](javascript/삼항조건연산자.md)
 
 ### [react](#react)
+- [Route](react/Switch, Route, Link.md)
+- [map](react/map.md)
+- [props](react/props.md)
 - [useEffect](react/useEffect.md)
+- [useHistory](react/useHIstory.md)
+- [useState](react/useState.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/
 [2]: https://github.com/jbranchaud/til

@@ -2,16 +2,17 @@
 
 ---
 
-##설명
+## 설명
+
 **`array.push()`**
 배열의 **_맨 끝_** 에 값을 추가한다  
 배열의 length를 return한다
 
 ---
 
-###예제
+### 예제
 
-#####기본
+#### 기본
 
 ```javascript
 const array1 = [0, 1, 2, 3];
@@ -22,7 +23,7 @@ array1.push(4);
 [0, 1, 2, 3, 4];
 ```
 
-#####return은 length
+#### return은 length
 
 ```javascript
 const ballSports = ["soccer", "baseball"];
@@ -36,7 +37,8 @@ console.log(sports);
 4;
 ```
 
-#####두개의 배열 합치기
+#### 두개의 배열 합치기
+
 `apply()`를 사용하여 두개의 배열을 합칠 수 있다
 
 ```javascript

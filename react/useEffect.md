@@ -1,13 +1,19 @@
 # useEffect
 
-## [useEffect란?]
+---
+
+## 설명
 
 리액트 component는 라이프 사이클이 존재한다.  
 '생성(mounting) -> 업데이트(updating) -> 제거(numoutin)'의 생명주기를 갖는다.  
 생명주기의 때에 따라 특정 작업을 처리할 수 있다.  
 불필요한 updating을 방지할 수 있다.
 
-## [useEffect 예제]
+---
+
+### 예제
+
+#### 기본
 
 - useEffect는 mouting, updating마다 실행된다
 - component의 다른 부분이 updating도 아래 const timer가 실행된다

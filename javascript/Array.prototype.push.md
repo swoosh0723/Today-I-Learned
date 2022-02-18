@@ -26,14 +26,14 @@ array1.push(4);
 #### return은 length
 
 ```javascript
-const ballSports = ["soccer", "baseball"];
-const sports = ballSports.push("swimming", "marathon");
+const sprots = ["soccer", "baseball"];
+const total = sprots.push("swimming", "marathon");
 
 // 결과값
-console.log(ballSports);
+console.log(sprots);
 ["soccer", "baseball", "swimming", "marathon"];
 
-console.log(sports);
+console.log(total);
 4;
 ```
 

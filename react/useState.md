@@ -21,12 +21,6 @@ useState()를 이용해 만들어야함
 
 ---
 
-### 사용시 주의사항
-
-**deep copy**를 해야한다. (react의 대원칙: immutable data)
-
----
-
 ### 예제
 
 #### 기본
@@ -37,7 +31,7 @@ const [data, dataChange] = useState(["0", "1", "2"]);
 
 #### deep copy
 
-아래의 예제와 같이 사용해야한다.
+**deep copy**를 해야한다. (react의 대원칙: immutable data)
 
 ```javascript
 const [data, dataChange] = useState(["0", "1", "2"]);

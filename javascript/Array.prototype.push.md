@@ -4,7 +4,8 @@
 
 ##설명
 **`array.push()`**
-배열의 **_맨 끝_** 에 값을 추가한다
+배열의 **_맨 끝_** 에 값을 추가한다  
+배열의 length를 return한다
 
 ---
 
@@ -19,6 +20,20 @@ array1.push(4);
 
 // 결과값
 [0, 1, 2, 3, 4];
+```
+
+#####return은 length
+
+```javascript
+const ballSports = ["soccer", "baseball"];
+const sports = ballSports.push("swimming", "marathon");
+
+// 결과값
+console.log(ballSports);
+["soccer", "baseball", "swimming", "marathon"];
+
+console.log(sports);
+4;
 ```
 
 #####두개의 배열 합치기

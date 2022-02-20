@@ -9,9 +9,9 @@
 
 ---
 
-### 예제
+## 예제
 
-#### 기본
+### 기본
 
 - useEffect는 mouting, updating마다 실행된다
 - component의 다른 부분이 updating도 아래 const timer가 실행된다

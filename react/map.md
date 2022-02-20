@@ -17,15 +17,16 @@ map 함수는 파라미터로 전달된 함수를 사용해, 배열 각 요소�
 function App() {
   const [title, titleChange] = useState(["제목1", "제목2", "제목3"]);
 
+
   return (
     <div className="App">
       // <!-- markdownlint-disable-next-line -->
       {
-          title.map((item, i) => {
-            <div className="list" key={i}>
-              <h3>{item}</h3>
-            </div>;
-          })
+        title.map((item, i) => {
+          <div className="list" key={i}>
+            <h3>{item}</h3>
+          </div>;
+        })
       }
     </div>
   );

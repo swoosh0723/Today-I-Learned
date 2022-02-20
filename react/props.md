@@ -6,9 +6,9 @@
 
 ---
 
-### 예제
+## 예제
 
-#### 기본
+### 기본
 
 ```javascript
 function App() {

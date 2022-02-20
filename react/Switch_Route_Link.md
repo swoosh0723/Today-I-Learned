@@ -1,10 +1,5 @@
 # Switch,Route,Link
 
-## 사용방법
-
-1. `yarn add react-router-dom` 설치한다
-2. `import { Link, Route, Switch } from 'react-router-dom'` 문서에 import 시킨다
-
 ---
 
 ## 설명
@@ -25,9 +20,16 @@
 
 ---
 
-### 예제
+## 사용방법
 
-#### 기본
+1. `npm install react-router-dom` 설치한다
+2. `import { Link, Route, Switch } from 'react-router-dom'` 문서에 import 시킨다
+
+---
+
+## 예제
+
+### 기본
 
 ```javascript
 function App() {

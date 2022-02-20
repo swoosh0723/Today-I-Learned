@@ -19,15 +19,15 @@ useState()를 이용해 만들어야함
 
 ---
 
-### 예제
+## 예제
 
-#### 기본
+### 기본
 
 ```javascript
 const [data, dataChange] = useState(["0", "1", "2"]);
 ```
 
-#### deep copy
+### deep copy
 
 **deep copy**를 해야한다. (react의 대원칙: immutable data)
 

@@ -8,9 +8,9 @@
 
 ---
 
-### 예제
+## 예제
 
-#### 기본
+### 기본
 
 ```javascript
 const array1 = [0, 1, 2, 3];
@@ -21,7 +21,7 @@ array1.push(4);
 [0, 1, 2, 3, 4];
 ```
 
-#### return은 length
+### return은 length
 
 ```javascript
 const sprots = ["soccer", "baseball"];
@@ -35,7 +35,7 @@ console.log(total);
 4;
 ```
 
-#### 두개의 배열 합치기
+### 두개의 배열 합치기
 
 `apply()`를 사용하여 두개의 배열을 합칠 수 있다
 

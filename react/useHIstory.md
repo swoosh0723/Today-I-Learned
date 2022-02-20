@@ -2,7 +2,7 @@
 
 ## 사용방법
 
-1. `yarn add react-router-dom` 설치한다
+1. `npm install react-router-dom` 설치한다
 2. `import { useHistory } from 'react-router-dom'` 문서에 import 시킨다
 
 ---

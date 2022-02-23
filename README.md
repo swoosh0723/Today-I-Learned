@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_16 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _16 TILs and counting..._
 - [html](html/html.md)
 
 ### [javascript](#javascript)
+- [Array.prototype.find()](javascript/Array.prototype.find.md)
 - [Array.prototype.pop()](javascript/Array.prototype.pop.md)
 - [Array.prototype.push()](javascript/Array.prototype.push.md)
 - [Array.prototype.shift()](javascript/Array.prototype.shift.md)
@@ -40,6 +41,7 @@ _16 TILs and counting..._
 - [props](react/props.md)
 - [useEffect](react/useEffect.md)
 - [useHistory](react/useHIstory.md)
+- [useParams](react/useParams.md)
 - [useState](react/useState.md)
 
 [1]: https://simonwillison.net/2020/Apr/20/self-rewriting-readme/

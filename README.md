@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_19 TILs and counting..._
+_20 TILs and counting..._
 
 ---
 
@@ -27,6 +27,7 @@ _19 TILs and counting..._
 
 ### [javascript](#javascript)
 - [Array.prototype.find()](javascript/Array.prototype.find.md)
+- [Array.prototype.findIndex()](javascript/Array.prototype.findIndex.md)
 - [Array.prototype.pop()](javascript/Array.prototype.pop.md)
 - [Array.prototype.push()](javascript/Array.prototype.push.md)
 - [Array.prototype.shift()](javascript/Array.prototype.shift.md)

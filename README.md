@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_20 TILs and counting..._
+_21 TILs and counting..._
 
 ---
 
@@ -36,8 +36,9 @@ _20 TILs and counting..._
 - [삼항 조건 연산자](javascript/삼항조건연산자.md)
 
 ### [react](#react)
-- [axios](react/axios.md)
+- [Redux](react/Redux.md)
 - [Switch,Route,Link](react/Switch_Route_Link.md)
+- [axios](react/axios.md)
 - [map](react/map.md)
 - [props](react/props.md)
 - [useContext](react/useContext.md)

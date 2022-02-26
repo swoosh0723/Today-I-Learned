@@ -23,7 +23,7 @@ redux의 state조회 (즉, 스토어에 있는 데이터들 조회)
 **`useDispatch`**  
 생성한 action 실행
 
-**`combinereducer`**  
+**`combineReducers`**  
 여러개의 모듈 하나로 통합해줌
 
 ---

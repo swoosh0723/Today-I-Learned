@@ -5,7 +5,7 @@
 redux를 사용하는 이유 ?  
 props 전송 없이도 모든 컴포넌트들이 state를 사용할 수 있게 만들어준다.
 
-**`Store`**
+**`Store`**  
 전용 장소인 store에서 상태를 관리
 
 **`Action`**  

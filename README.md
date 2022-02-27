@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -41,6 +41,7 @@ _21 TILs and counting..._
 - [axios](react/axios.md)
 - [map](react/map.md)
 - [props](react/props.md)
+- [리액트에서 자주쓰는 if문 작성패턴](react/react_if_statement_patterns.md)
 - [useContext](react/useContext.md)
 - [useEffect](react/useEffect.md)
 - [useHistory](react/useHIstory.md)

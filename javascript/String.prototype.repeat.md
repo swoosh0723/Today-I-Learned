@@ -6,7 +6,6 @@
 string.repeat(count);
 ```
 
-\
 **`count`**  
 문자열을 반복할 횟수. 0과 양의 무한대 사이의 정수
 

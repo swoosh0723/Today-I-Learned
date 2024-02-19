@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_24 TILs and counting..._
+_25 TILs and counting..._
 
 ---
 
@@ -35,6 +35,7 @@ _24 TILs and counting..._
 - [Array.prototype.slice()](javascript/Array.prototype.slice.md)
 - [Array.prototype.unshfit()](javascript/Array.prototype.unshift.md)
 - [String.prototype.repeat()](javascript/String.prototype.repeat.md)
+- [TEST](javascript/test.md)
 - [삼항 조건 연산자](javascript/삼항조건연산자.md)
 
 ### [markdown](#markdown)

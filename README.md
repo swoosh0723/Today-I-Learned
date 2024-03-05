@@ -4,7 +4,7 @@
 매일 배우는 소소한 것들을 구체적으로 정리해 놓은 모음집.
 
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
 ---
 
@@ -39,6 +39,7 @@ _28 TILs and counting..._
 - [데이터타입](javascript/데이터타입.md)
 - [변수](javascript/변수.md)
 - [삼항 조건 연산자](javascript/삼항조건연산자.md)
+- [연산자](javascript/연산자.md)
 - [표현식과 문](javascript/표현식과_문.md)
 
 ### [markdown](#markdown)
